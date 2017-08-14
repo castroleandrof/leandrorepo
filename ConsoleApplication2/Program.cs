@@ -11,6 +11,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             var data = new object();
+            var data2 = new object();
         }
     }
 }
